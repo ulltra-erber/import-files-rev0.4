@@ -27,3 +27,5 @@ Built with swift-png + fastbook
 Docs at [local_timehub.run](https://local_timehub.run)
 
 MIT © 2025
+
+# PR Update: 2025-10-20 - docs/update-5303
